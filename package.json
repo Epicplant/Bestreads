@@ -1,0 +1,21 @@
+{
+  "name": "hw4-bestreads-cr0y",
+  "version": "1.0.0",
+  "description": "*Special thanks to Allison Obourn for the original version of this assignment. Additional thanks to\r Tal Wolman and Jack Venberg for the adaptation of this assignment into Node.js*",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.cs.washington.edu:cse154-20sp-students/hw4-bestreads-cr0y.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "sqlite": "^4.0.8",
+    "sqlite3": "^4.2.0"
+  }
+}
